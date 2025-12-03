@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "LAST IMPRESSION",
+  "base_artist": "TWO-MIX",
+  "createdAt": "2025-12-03T08:59:45.408521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LAST IMPRESSION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/01_LAST_IMPRESSION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST IMPRESSION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/02_LAST_IMPRESSION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LAST IMPRESSION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/03_LAST_IMPRESSION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LAST IMPRESSION",
+      "artist": "TWO-MIX",
+      "has_synced": true,
+      "path": "select/04_LAST_IMPRESSION_TWO-MIX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "last impression",
+      "artist": "twomix",
+      "has_synced": true,
+      "path": "select/05_last_impression_twomix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Impression",
+      "artist": "Two-Mix",
+      "has_synced": true,
+      "path": "select/06_Last_Impression_Two-Mix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Impression",
+      "artist": "Starving Trancer Feat. Puchi",
+      "has_synced": false,
+      "path": "select/07_Last_Impression_Starving_Trancer_Feat._Puchi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Impression",
+      "artist": "TWO-MIX",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Impression_TWO-MIX.txt"
+    }
+  ]
+}
